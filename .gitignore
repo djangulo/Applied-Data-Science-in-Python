@@ -11,6 +11,8 @@ fablog.log
 
 .env
 
+readonly
+
 .coverage
 
 test_media
