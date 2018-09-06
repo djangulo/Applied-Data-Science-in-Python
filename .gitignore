@@ -10,6 +10,8 @@ secrets.py
 fablog.log
 
 .env
+*.csv
+
 
 readonly
 
